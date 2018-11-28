@@ -42,7 +42,7 @@ Mat m1 = Mat(1,1, CV_64F, 0.0);
 
 ---
 
-**putText**
+**putText**  
 ![putText](/HelloWorld/putText.png)  
 
 Other [Drawing Function](https://docs.opencv.org/3.0-beta/modules/imgproc/doc/drawing_functions.html) like circle, ellipse etc.  
@@ -51,12 +51,12 @@ Other [Drawing Function](https://docs.opencv.org/3.0-beta/modules/imgproc/doc/dr
 
 ---
 
-**imshow**
-![imshow](HelloWorld/imshow.png)
+**imshow**  
+![imshow](/HelloWorld/imshow.png)
 
 ---
 
-**waitKey**
+**waitKey**  
 ![waitKey](/HelloWorld/waitKey.png)  
 
 Zero means to wait forever.
